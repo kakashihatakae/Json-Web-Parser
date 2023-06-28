@@ -1,0 +1,16 @@
+.TextContainer {
+  white-space: pre;
+}
+
+.bold {
+  font-weight: bolder;
+
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.italicize {
+  font-style: italic;
+}
